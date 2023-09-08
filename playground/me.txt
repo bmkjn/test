@@ -1,6 +1,0 @@
-{{#user}}
-Name: Bhumika Jain
-Skills: HTML, CSS, JS, Next.js
-Email: test@gmail.com
-{{/user}}
-
